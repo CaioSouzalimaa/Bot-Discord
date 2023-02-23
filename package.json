@@ -1,0 +1,12 @@
+{
+  "name": "Bot-Discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CaioSouzalimaa/Bot-Discord.git",
+  "author": "Caio Souza Lima <caiosouzalima2002@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
